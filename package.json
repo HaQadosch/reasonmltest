@@ -1,0 +1,24 @@
+{
+  "name": "reasonmltest",
+  "version": "1.0.0",
+  "description": "testing reason ml",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bsb": "bsb"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaQadosch/reasonmltest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HaQadosch/reasonmltest/issues"
+  },
+  "homepage": "https://github.com/HaQadosch/reasonmltest#readme",
+  "dependencies": {
+    "bs-platform": "^7.1.1"
+  }
+}
